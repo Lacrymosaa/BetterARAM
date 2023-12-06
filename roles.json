@@ -1,0 +1,18 @@
+{
+    "Tank": [
+      "Malphite", "Alistar", "Leona", "Sejuani", "Cho'Gath", "Tahm Kench", "Dr. Mundo", "Skarner", "Sett", "Volibear", "Galio", "Zac", "Sion", "Nautilus", "Poppy", "Amumu", "Rell", "Gnar", "Ornn", "Maokai", "Udyr", "Kled", "Shen", "Rammus", "Illaoi", "K'Sante", "Thresh", "Nasus", "Mordekaiser", "Garen", "Darius", "Renekton"
+    ],
+    "Fighter": [
+      "Evelynn", "Kayn", "Katarina", "Kha Zix", "Ekko", "Akali", "Fiora", "Yone", "Jax", "Master Yi", "Zed", "Riven", "Irelia", "Rengar", "Sylas", "Qiyana", "Pantheon", "Lee Sin", "Nidalee", "Viego", "Xin Zhao", "Shaco", "Vi", "Briar", "Naafiri", "Tryndamere", "Gwen", "Nocturne", "Talon", "Quinn", "Camille", "Rek'Sai", "Gragas", "Swain", "Hecarim", "Jarvan IV", "Warwick", "Elise", "Shyvana", "Diana", "Aatrox", "Jayce", "Urgot", "Bel'Veth", "Nunu", "Olaf", "Singed", "Trundle", "Gangplank", "Wukong", "Lillia", "Kennen", "Vladimir", "Yorick"
+    ],
+    "Support": [
+      "Bardo", "Lulu", "Yuumi", "Nami", "Morgana", "Pyke", "Renata Glasc", "Sona", "Janna", "Rakan", "Karma", "Ivern", "Soraka", "Seraphine", "Zyra", "Taric", "Zilean", "Milio", "Blitzcrank", "Braum"
+    ],
+    "Carry": [
+      "Azir", "Twitch", "Jhin", "Xayah", "Caitlyn", "Kindred", "Ezreal", "Tristana", "Graves", "Samira", "Kai'sa", "Kalista", "Miss Fortune", "Jinx", "Lucian", "Vayne", "Senna", "Ashe", "Draven", "Aphelios", "Varus", "Kog'Maw", "Sivir", "Zeri", "Akshan", "Yasuo", "Kayle", "Nilah"
+    ],
+    "Mage": [
+      "Ahri", "Syndra", "LeBlanc", "Lissandra", "Kassadin", "Aurelion Sol", "Ryze", "Orianna", "Cassiopeia", "Twisted Fate", "Fiddlesticks", "Viktor", "Zoe", "Veigar", "Lux", "Annie", "Vel'Koz", "Malzahar", "Karthus", "Anivia", "Ziggs", "Heimerdinger", "Taliyah", "Neeko", "Brand", "Vex", "Xerath", "Fizz", "Teemo", "Rumble"
+    ]
+  }
+  
